@@ -1,1 +1,1 @@
-# Projet-de-S-rie-Temporelle
+# Projet-de-Série-Temporelle M2
